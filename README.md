@@ -7,7 +7,7 @@
 
 | Name           | Description                                                                                                           |
 |----------------|-----------------------------------------------------------------------------------------------------------------------|
-| Owner          | IMTIYANO & Rodieeno.  Discord: `imtiyano` | `rodieeno` UID: `760100546366537751`| `1173938253238370356`               |
+| Owner          | IMTIYANO & RODIEENO.                                                                                                  |
 | Lead Management| Founder of the server (! 𝙰𝚢𝚎 𝚁𝚘𝚌𝙺𝚒𝚗𝚐). Discord: `rocking_001`| UID: `1164055637362229258`                            |
 | Management     | Oversees all core operations and decision-making for IMRONO.                                                          |
 | Staff Team     | Enforces rules, ensures order, and takes necessary action against offenders to maintain a fair environment.           |
