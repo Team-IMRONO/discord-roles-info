@@ -7,7 +7,7 @@
 
 | Name           | Description                                                                                                           |
 |----------------|-----------------------------------------------------------------------------------------------------------------------|
-| Owner          | IMTIYANO & RODIEENO.                                                                                                  |
+| Owner          | Server Owners i.e `IMTIYANO` & `RODIEENO`.                                                                                                  |
 | Lead Management| Founder of the server (! 𝙰𝚢𝚎 𝚁𝚘𝚌𝙺𝚒𝚗𝚐). Discord: `rocking_001`| UID: `1164055637362229258`                            |
 | Management     | Oversees all core operations and decision-making for IMRONO.                                                          |
 | Staff Team     | Enforces rules, ensures order, and takes necessary action against offenders to maintain a fair environment.           |
@@ -27,7 +27,7 @@
 | Partner           | Servers or individuals officially collaborating and allied with the community.                                                                                                                                  |
 | Developer         | The mind behind the bots used in this server, ensuring smooth features and automation.                                                                                                                          |
 | Designer          | Ones who regularly do gfx or VFX work for Team IMRONO.                                                                                                                                                          |
-| Artist            | Talented members who share and showcase their music within the [server](https://discord.gg/imrono).                                                                                                             |
+| Artist            | Talented members who share and showcase their music within the [server](https://discord.gg/MAYpcFtAgV).                                                                                                             |
 | Writers           | Creative members who share their thoughts, stories, and written works in the server.                                                                                                                            |
 | Active Member     | Regular participants who consistently engage and contribute to the server’s activities.                                                                                                                         |
 | Verified Girl     | Assigned to female members after completing voice verification.                                                                                                                                                 |
