@@ -14,7 +14,6 @@
 | Management     | Oversees all core operations and decision-making for IMRONO.                                                          |
 | Staff Team     | Enforces rules, ensures order, and takes necessary action against offenders to maintain a fair environment.           |
 | Minecraft Team     | Oversees in-game activity of our minecraft server i.e <B>IMRONO MC</B>.           |
-| Community Team | Organizes and manages community events and activities inside the discord server.   |
 
 ### <img src="https://cdn3.emoji.gg/emojis/800962-blobcat-flower.png" align="center" style="padding-bottom:5px" height="30px" alt="special-roles"></a>  Special Roles
 
@@ -26,7 +25,7 @@
 | OP Boosters       | Members who support the server by [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-).                                                                                      |
 | YouTube Sponsor   | Channel member of IMTIYANO i.e. [IMTIYANO](https://www.youtube.com/@imtiyano). [Click here to join sponsor gang today](https://www.youtube.com/@imtiyano/join)!                        |
 | YouTube Sponsor   | Channel member of RODIEENO i.e. [RODIEENO](https://www.youtube.com/@rodieeno). [Click here to join sponsor gang today](https://www.youtube.com/@rodieeno/join)!                        |
-| Contributor       | Members who provide financial support to the server under specific terms and conditions.                                                                                                                        |
+| Contributor       | Members who provide financial support to the server (including minecraft server) under specific terms and conditions.                                                                                           |
 | Partner           | Servers or individuals officially collaborating and allied with the community.                                                                                                                                  |
 | Developer         | The mind behind the bots used in this server, ensuring smooth features and automation.                                                                                                                          |
 | Designer          | Ones who regularly do gfx or VFX work for Team IMRONO.                                                                                                                                                          |
